@@ -1,4 +1,4 @@
-# MachineLearning_A-Z
+# Machine Learning
 
 ## This is where i need to build the repo
 

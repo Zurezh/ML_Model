@@ -35,7 +35,7 @@
 - - M32 Convolutional Neural
 - - M33 Part 9 Dimentionality
 - - M34 Principal Component
-- - M35 Principal Component
+- - M35 Linear Discriminant
 - - M36 Kernal PCA
 - M37 Part 10 Model Selection
 - - M38 Model Selection

@@ -1,6 +1,6 @@
 # Machine Learning Code Repository
 
-#### The Repository is still under building and will be completed by 31-Jan-2020.
+> #### *The Repository is still under building and will be completed by 31-Jan-2020.*
 
 ## M1 Welcome to Machine
 **Install Python and Anaconda. There are many youtube videos to help you out. So not including it here.**

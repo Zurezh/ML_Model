@@ -1,10 +1,10 @@
 # Machine Learning Code Repository
 
-### The Repository is still under building and will be completed by 31-Jan-2020.
-
-**Install Python and Anaconda. There are many youtube videos to help you out. So not including it here.**
+#### The Repository is still under building and will be completed by 31-Jan-2020.
 
 ## M1 Welcome to Machine
+**Install Python and Anaconda. There are many youtube videos to help you out. So not including it here.**
+
 ## [M2 Part 1 Data Processing](https://github.com/Zurezh/ML_Model/tree/master/M2%20Part%201%20Data%20Processing)
 ## [M3 Part 2 Regression](https://github.com/Zurezh/ML_Model/tree/master/M3%20Part%202%20Regression)
 - - M4 Simple Linear Regression

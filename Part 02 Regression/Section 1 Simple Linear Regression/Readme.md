@@ -1,3 +1,3 @@
-.R are R Files
-.py are Python Files
-.
+- .R are R Files
+- .py are Python Files
+- .ipynm are Python Notebooks

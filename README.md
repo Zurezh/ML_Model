@@ -14,34 +14,34 @@
 - Section 5 Decision Tree Regression
 - Section 6 Random Forest
 ## Part 03 Classification
-- - Section 1 Logistic Regression
-- - Section 2 kNearestNeighbors
-- - Section 3 Support Vector Machine
-- - Section 4 Kernel SVM
-- - Section 5 Naive Bayes
-- - Section 6 Decision Tree
-- - Section 7 Random Forest
-- - Section 8 Evaluating Classification
+- Section 1 Logistic Regression
+- Section 2 kNearestNeighbors
+- Section 3 Support Vector Machine
+- Section 4 Kernel SVM
+- Section 5 Naive Bayes
+- Section 6 Decision Tree
+- Section 7 Random Forest
+- Section 8 Evaluating Classification
 ## Part 04 Clustering
-- - Section 1 kMeansClustering
-- - Section 2 Hirarchical Clustering
+- Section 1 kMeansClustering
+- Section 2 Hirarchical Clustering
 ## Part 05 Association Rule
-- - Section 1 Apriori
-- - Section 2 Eclat
+- Section 1 Apriori
+- Section 2 Eclat
 ## Part 06 Reinforcement
-- - Section 1 Upper Confidence Bound
-- - Section 2 Thomson Sampling
+- Section 1 Upper Confidence Bound
+- Section 2 Thomson Sampling
 ## Part 07 Natural Language
 ## Part 08 Deep Learning
-- - Section 1 Artificial Neural
-- - Section 2 Convolutional Neural
+- Section 1 Artificial Neural
+- Section 2 Convolutional Neural
 ## Part 09 Dimentionality
-- - Section 1 Principal Component
-- - Section 2 Linear Discriminant
-- - Section 3 Kernal PCA
+- Section 1 Principal Component
+- Section 2 Linear Discriminant
+- Section 3 Kernal PCA
 ## Part 10 Model Selection
-- - Section 1 Model Selection
-- - Section 2 XGBoost
+- Section 1 Model Selection
+- Section 2 XGBoost
 ## Part 98 Additionals
 ## Part 99 DataSets
 

@@ -7,12 +7,12 @@
 
 ## Part 01 Data Processing
 ## Part 02 Regression
-- - Section 1 Simple Linear Regression
-- - Section 2 Mutiple Linear Regression
-- - Section 3 Polynomial Regression
-- - Section 4 Support Vector
-- - Section 5 Decision Tree Regression
-- - Section 6 Random Forest
+- Section 1 Simple Linear Regression
+- Section 2 Mutiple Linear Regression
+- Section 3 Polynomial Regression
+- Section 4 Support Vector
+- Section 5 Decision Tree Regression
+- Section 6 Random Forest
 ## Part 03 Classification
 - - Section 1 Logistic Regression
 - - Section 2 kNearestNeighbors

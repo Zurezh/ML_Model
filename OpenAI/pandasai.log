@@ -1,0 +1,20 @@
+2023-06-30 00:58:24 [INFO] Question: What is the index of Pune?
+2023-06-30 00:58:24 [INFO] Running PandasAI with openai LLM...
+2023-06-30 00:58:24 [INFO] Prompt ID: 2e343b08-9f93-4011-81b0-71fe54770297
+2023-06-30 00:58:25 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-30 00:58:47 [INFO] Question: What is the index of Pune?
+2023-06-30 00:58:47 [INFO] Running PandasAI with openai LLM...
+2023-06-30 00:58:47 [INFO] Prompt ID: 0828eb36-4ace-48ca-9a78-32b65ae7b3f2
+2023-06-30 00:58:48 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-06-30 10:41:40 [INFO] Question: What is the index of Pune?
+2023-06-30 10:41:40 [INFO] Running PandasAI with openai LLM...
+2023-06-30 10:41:40 [INFO] Prompt ID: f336b5b9-5033-4647-a565-ec55a075c587
+2023-06-30 10:41:42 [INFO] error_code=None error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-09-17 17:07:41 [INFO] Question: What is the index of Pune?
+2023-09-17 17:07:41 [INFO] Running PandasAI with openai LLM...
+2023-09-17 17:07:41 [INFO] Prompt ID: f071e64a-ca2b-4e33-a1c7-7b4ccef7768c
+2023-09-17 17:07:41 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-09-17 17:08:23 [INFO] Question: What is the index of Pune?
+2023-09-17 17:08:23 [INFO] Running PandasAI with openai LLM...
+2023-09-17 17:08:23 [INFO] Prompt ID: 14e4088c-e165-4301-a0e2-9727558f5a95
+2023-09-17 17:08:24 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
